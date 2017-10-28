@@ -1,0 +1,22 @@
+{
+  "name": "board-ui",
+  "description": "An alternative approach to a front-end framework.",
+  "main": "index.html",
+  "authors": [
+    "Andrew Stacy <ajstacy@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "board",
+    "ui",
+    "framework"
+  ],
+  "homepage": "https://github.com/AJStacy/board-ui",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

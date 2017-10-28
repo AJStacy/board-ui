@@ -1,0 +1,10 @@
+{
+  "name": "board-ui",
+  "version": "0.0.1",
+  "description": "An alternative approach to a front-end framework.",
+  "main": "index.html",
+  "repository": "git@github.com:AJStacy/board-ui.git",
+  "author": "Andrew Stacy <ajstacy@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
